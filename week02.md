@@ -8,6 +8,8 @@ Most Important Things I Learned:
 * Prioritize understanding over completion.
 * Taking more time to understand every single line.
 * More confidence using IRB.
+* Rubber Duck debugging.
+* Initiation to Regular Expression with Rugular (Ruby).
 
 Things I Struggled With The Most:
 -------------------------------
@@ -28,3 +30,4 @@ Other Experiences This Week:
 
 * Started exercising again.
 * Read two chapters on design from Metz's Practical Object-Oriented Design in Ruby (POODR).
+* Watched two Ruby Kickstart videos by Joshua Cheek.
